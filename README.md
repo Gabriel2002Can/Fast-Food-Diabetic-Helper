@@ -2,6 +2,6 @@
 
 ### Description
 
-Comming next: Data cleaness and data analytcs chards based on previous meals. 
+Coming next: Data cleanliness and data analytics charts based on previous meals.
 
 ### Version 1.0
